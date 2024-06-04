@@ -48,7 +48,7 @@ let str3 = str1 + str2
 // console.log(1 + "2"); // 12 (it will solve the 1st part and then concate it with the string and show the output as 12)
 // console.log("1" + 2 + 2);//122 (1st operator is string so whole will be considered as string and it will concatinate all the operators  and show the output as 122)
 
-// console.log(1 + 2 + 5+ "2");//32 (solve the operations untill the string comes and when the string came it will concatinate and show the output as 82)
+// console.log(1 + 2 + 5+ "2");//82 (solve the operations untill the string comes and when the string came it will concatinate and show the output as 82)
 
 // console.log( 3 + 4 * 5 % 3);
 
